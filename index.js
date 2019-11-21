@@ -29,7 +29,7 @@
 
 
     var nestSession = {};
-    var defaultNestUserAgent = 'Nest/3.0.15 (iOS) os=6.0 platform=iPad3,1';
+    var defaultNestUserAgent = 'Dalvik/1.6.0 (Linux; U; Android 4.2.2; Protonet) Dropcam/5.2.1.13 com.nest.android';
 
     var fanModes = {
         'auto': 'auto',
